@@ -24,4 +24,4 @@ Framer Motion – For silky-smooth animations
 Vercel – For seamless deployment
 
 📸 Preview
-[https://i.imgur.com/your-screenshot-link.png](https://imgur.com/a/oaLN3mt) 
+https://i.imgur.com/your-screenshot-link.png
